@@ -51,7 +51,11 @@ yarn dev
 ```
 http://localhost:3000
 ```
-
+Admin login:
+```
+adminEmail = "admin@example.com"
+adminPassword = "admin123"
+```
 ## Project Structure
 
 ```
