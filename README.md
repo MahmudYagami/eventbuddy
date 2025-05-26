@@ -1,6 +1,7 @@
 # Event Buddy
 
 Event Buddy is a modern web application for discovering and booking events. Built with Next.js and Tailwind CSS, it provides a seamless experience for users to browse, search, and book events.
+# Preview Of the Website https://68347a00279c060ae16e82f3--eventbuddy334.netlify.app/
 
 ## Features
 
