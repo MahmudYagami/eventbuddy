@@ -12,7 +12,7 @@ import ticketRight from "@/public/ticket right.png";
 
 export default function Home() {
   const router = useRouter();
-  const { user, login, logout, addBooking } = useAuth();
+  const { user, logout} = useAuth();
   const [upcomingPage, setUpcomingPage] = useState(1);
   const [previousPage, setPreviousPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
