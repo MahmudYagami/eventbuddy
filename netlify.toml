@@ -1,7 +1,7 @@
 [build]
   base = "my-app"
   command = "npm run build"
-  publish = ".next"
+  publish = "my-app/.next"
 
 [build.environment]
   NEXT_TELEMETRY_DISABLED = "1"
